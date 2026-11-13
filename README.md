@@ -7,7 +7,7 @@ Projekt propojuje správu objednávek s přehlednými dashboardy a analytickými
 Aplikace je vytvořena v Microsoft Excel 365 s využitím VBA, vzorců a grafů.
 ## Hlavní funkce
 
-- **Evidence objednávek** – zakládání nových objednávek a aktualizace jejich stavu.
+- **Správa objednávek** – zakládání nových objednávek a aktualizace jejich stavu.
 - **Detail objednávky** – rychlé zobrazení informací a historie jednotlivé objednávky.
 - **Dashboard** – souhrnný přehled objednávek podle jejich aktuálního stavu.
 - **Analýza procesu** – vyhodnocování délky jednotlivých fází nákupního procesu a finančních ukazatelů.
