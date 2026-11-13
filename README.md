@@ -11,7 +11,6 @@ Aplikace je vytvořena v Microsoft Excel 365 s využitím VBA, vzorců a grafů.
 - **Detail objednávky** – rychlé zobrazení informací a historie jednotlivé objednávky.
 - **Dashboard** – souhrnný přehled objednávek podle jejich aktuálního stavu.
 - **Analýza procesu** – vyhodnocování délky jednotlivých fází nákupního procesu a finančních ukazatelů.
-- **Analýza dodavatelů** – porovnávání dodavatelů podle počtu objednávek, objemu nákupů a dalších ukazatelů.
 - **Paretova analýza** – identifikace dodavatelů, kteří se nejvíce podílejí na celkovém objemu nákupů.
 - **Inteligence nákupu** – identifikace objednávek, u kterých došlo k překročení nastavených časových limitů.
 - ## Technologie
